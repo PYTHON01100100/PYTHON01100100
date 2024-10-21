@@ -13,9 +13,11 @@
 **Languages:** 🇺🇸 English, 🇵🇸🇸🇦 Arabic, 🇯🇵 Japanese, 🏳️ Hebrew  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username1.jpg" width="20%" alt="Username"/>
-  <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username2.jpg" width="20%" alt="Username"/>
-  <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username3.jpg" width="20%" alt="Username"/>
+  {% for image in site.static_files %}
+    {% if image.path contains 'images/folder/' %}
+      <img src="{{ image.path }}" width="20%" alt="Dynamic Image" />
+    {% endif %}
+  {% endfor %}
 </p>
 
 ## ***Technologies***
@@ -41,4 +43,3 @@
 </p>
 
 </div>
-
