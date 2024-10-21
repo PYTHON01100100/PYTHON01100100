@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://python01100100.github.io/MyBetaCV/#" target="_blank">
-    <img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/username.jpg" width="20%" alt="Username"/>
+    <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
   </a>
   <br>
   <em>Click to see my links</em>
