@@ -13,7 +13,9 @@
 **Languages:** 🇺🇸 English, 🇵🇸🇸🇦 Arabic, 🇯🇵 Japanese, 🏳️ Hebrew  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/parade.webp" width="300px" alt="Parade"/>
+  <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
+  <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username2.jpg" width="20%" alt="Username"/>
+  <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username3.jpg" width="20%" alt="Username"/>
 </p>
 
 ## ***Technologies***
@@ -32,26 +34,10 @@
 
 <p align="center">
   <a href="https://python01100100.github.io/MyBetaCV/#" target="_blank">
-    <img id="slideshow" src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
+    <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
   </a>
   <br>
   <em>Click to see my links</em>
 </p>
 
 </div>
-
-<script>
-  const images = [
-    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg",
-    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username2.jpg",
-    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username3.jpg"
-  ];
-
-  let currentIndex = 0;
-  const imageElement = document.getElementById("slideshow");
-
-  setInterval(() => {
-    currentIndex = (currentIndex + 1) % images.length; // Loop through images
-    imageElement.src = images[currentIndex];
-  }, 3000); // Change image every 3 seconds
-</script>
