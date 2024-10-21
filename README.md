@@ -4,8 +4,11 @@
 ## *About Me*
 
 **Name:** Abdulrahman Emad Almyman 👋  
+
 **Loves:** 📺 Anime, 🎮 Games, 📚 Books, 🏃‍♂️ Sport
+
 **Hobbies:** 💻 Tech Stuff, 🌐 Web Development, 🐧 Linux Ricing , 🤖 AI 
+
 **Languages:** 🇺🇸 English, 🇵🇸🇸🇦 Arabic, 🇯🇵 Japanese, 🏳️ Hebrew  
 
 <p align="center">
