@@ -1,6 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F4C9DC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Yahallo+~+Welcome+to+my+github+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
 ## *About Me*
 
 **Name:** Abdulrahman Emad Almyman 👋  
@@ -29,18 +30,28 @@
 ![Static Badge](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-
-
-
-
-
 <p align="center">
   <a href="https://python01100100.github.io/MyBetaCV/#" target="_blank">
-    <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
+    <img id="slideshow" src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
   </a>
   <br>
   <em>Click to see my links</em>
 </p>
 
-
 </div>
+
+<script>
+  const images = [
+    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg",
+    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username2.jpg",
+    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username3.jpg"
+  ];
+
+  let currentIndex = 0;
+  const imageElement = document.getElementById("slideshow");
+
+  setInterval(() => {
+    currentIndex = (currentIndex + 1) % images.length; // Loop through images
+    imageElement.src = images[currentIndex];
+  }, 3000); // Change image every 3 seconds
+</script>
