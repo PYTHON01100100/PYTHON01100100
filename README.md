@@ -21,7 +21,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?style=flat&logo=wordpress)
-![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Static Badge](https://img.shields.io/badge/python-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github)
 ![Static Badge](https://img.shields.io/badge/Ansible-%23EE0000?style=flat&logo=ansible)
