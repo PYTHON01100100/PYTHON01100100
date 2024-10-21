@@ -46,22 +46,7 @@
       "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username5.jpg"
     ];
 
-    // تغيير الصورة كل 5 ثوانٍ
-    let imageIndex = 0;
-
-    const changeImage = () => {
-      // زيادة الفهرس
-      imageIndex++;
-      // إذا وصل الفهرس إلى نهاية المصفوفة، أعده إلى 0
-      if (imageIndex >= images.length) {
-        imageIndex = 0;
-      }
-      // تغيير مصدر الصورة
-      document.getElementById("dynamicImage").src = images[imageIndex];
-    };
-
-    // استدعاء الدالة كل 5 ثوانٍ
-    setInterval(changeImage, 5000);
+    
   </script>
 </div>
 
