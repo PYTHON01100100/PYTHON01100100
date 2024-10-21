@@ -13,12 +13,12 @@
 **Languages:** 🇺🇸 English, 🇵🇸🇸🇦 Arabic, 🇯🇵 Japanese, 🏳️ Hebrew  
 
 <p align="center">
-  <img id="slideshow" src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username1.jpg" width="300px" alt="Image"/>
+  <img id="slideshow" src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username1.jpg" width="20%" alt="Username"/>
 </p>
 
 <script>
   const images = [
-    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg",
+    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username1.jpg",
     "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username2.jpg",
     "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username3.jpg",
     "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username4.jpg",
@@ -53,10 +53,31 @@
 
 <p align="center">
   <a href="https://python01100100.github.io/MyBetaCV/#" target="_blank">
-    <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
+    <img id="dynamicImage" src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
   </a>
   <br>
   <em>Click to see my links</em>
 </p>
+
+<script>
+  const links = [
+    "https://python01100100.github.io/MyBetaCV/#",
+    "https://example.com/link2",
+    "https://example.com/link3",
+    "https://example.com/link4",
+    "https://example.com/link5"
+  ];
+
+  const dynamicImage = document.getElementById("dynamicImage");
+  let linkIndex = 0;
+
+  const changeLink = () => {
+    linkIndex++;
+    if (linkIndex >= links.length) return; // Stop after the last link
+    dynamicImage.parentElement.href = links[linkIndex];
+  };
+
+  setInterval(changeLink, 5000); // Change link every 5 seconds
+</script>
 
 </div>
