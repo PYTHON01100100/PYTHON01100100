@@ -14,7 +14,7 @@
 
 <div class="slideshow">
   <a href="https://python01100100.github.io/MyBetaCV/#" target="_blank">
-    <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" class="slide" alt="Username 1"/>
+    <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username1.jpg" class="slide" alt="Username 1"/>
     <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username2.jpg" class="slide" alt="Username 2"/>
     <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username3.jpg" class="slide" alt="Username 3"/>
   </a>
