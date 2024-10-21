@@ -17,17 +17,18 @@
 
 ## ***Technologies***
 
-![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?style=flat&logo=wordpress)
-![Static Badge](https://img.shields.io/badge/python3670A0?style=flat&logo-badge&logo=python&logoColor=ffdd54)
+![Static Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Static Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github)
-![Static Badge](https://img.shields.io/badge/Ansible-%23EE0000?style=flat&logo=ansible)
-![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
-![Static Badge](https://img.shields.io/badge/virtualbox-%23183A61?style=flat&logo=virtualbox&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Static Badge](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![Static Badge](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
 
 
 
