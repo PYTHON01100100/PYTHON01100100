@@ -29,24 +29,41 @@
 
 
 
-  <p align="center">
-    <a id="dynamicLink" href="https://python01100100.github.io/MyBetaCV/#" target="_blank">
-      <img id="dynamicImage" src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
-    </a>
-    <br>
-    <em>Click to see my links</em>
-  </p>
-  <script>
-    // مصفوفة تحتوي على روابط الصور
-    const images = [
-      "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username1.jpg",
-      "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username2.jpg",
-      "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username3.jpg",
-      "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username4.jpg",
-      "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username5.jpg"
-    ];
+ <div align="center">
+  <a id="dynamicLink" href="https://python01100100.github.io/MyBetaCV/#" target="_blank">
+    <img id="dynamicImage" src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg" width="20%" alt="Username"/>
+  </a>
+  <br>
+  <em>Click to see my links</em>
+</div>
 
-    
-  </script>
+<script>
+  // مصفوفة تحتوي على روابط الصور
+  const images = [
+    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username.jpg",
+    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username2.jpg",
+    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username3.jpg",
+    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username4.jpg",
+    "https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username5.jpg"
+  ];
+
+  let imageIndex = 0;
+
+  const changeImage = () => {
+    const dynamicImage = document.getElementById("dynamicImage");
+    dynamicImage.src = images[imageIndex];  // تغيير مصدر الصورة إلى الصورة من المصفوفة
+
+    imageIndex++;  // زيادة الفهرس
+
+    // إذا وصل الفهرس إلى نهاية المصفوفة، أعده إلى 0
+    if (imageIndex >= images.length) {
+      imageIndex = 0;
+    }
+  };
+
+  // استدعاء الدالة كل 5 ثوانٍ
+  setInterval(changeImage, 5000);
+</script>
+
 </div>
 
