@@ -11,6 +11,8 @@
 
 **Languages:** 🇺🇸 English, 🇵🇸🇸🇦 Arabic, 🇯🇵 Japanese, 🏳️ Hebrew  
 
+**Education:** 🇸🇦 King Saud University
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/parade.webp" width="300px" alt="Parade"/>
 </p>
