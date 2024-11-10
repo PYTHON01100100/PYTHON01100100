@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://python01100100.github.io/Abdulrahman_Almyman_Portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/username2.jpg" width="20%" alt="Username"/>
+    <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/u0.jpg" width="20%" alt="Username"/>
   </a>
   <br>
   <em>Click to see my links</em>
