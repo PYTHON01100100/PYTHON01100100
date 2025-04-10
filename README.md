@@ -9,7 +9,7 @@
 
 **Hobbies:** 💻 Tech Stuff, 🌐 Web Development, 🐧 Linux , 🤖 AI 
 
-**Languages:** 🇺🇸 English, 🇵🇸🇸🇦 Arabic, 🇯🇵 Japanese, 🏳️ Hebrew  
+**Languages:** 🇺🇸 English, 🇵🇸🇸🇦 Arabic, 🇯🇵 Japanese, 🏳️ Hebrew  , French 🇫🇷
 
 **Education:** 🇸🇦 King Saud University
 
