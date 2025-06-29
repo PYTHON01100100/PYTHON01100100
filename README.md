@@ -11,7 +11,7 @@
 
 **Languages:** 🇺🇸 English, 🇵🇸🇸🇦 Arabic, 🇯🇵 Japanese, 🏳️ Hebrew  , French 🇫🇷
 
-**Education:** 🇸🇦 King Saud University
+**Education:** 🇸🇦 King Saud University (In the future, I hope 🇺🇸)
 
 **Work:** SCCC BY STC ( Prev: SCCC | ALIBABA CLOUD ) 🇸🇦 🟠🟣
 
