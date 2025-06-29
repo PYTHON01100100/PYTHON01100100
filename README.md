@@ -13,7 +13,7 @@
 
 **Education:** 🇸🇦 King Saud University
 
-**Work:** SCCC BY STC ( Prev: ALIBABA CLOUD ) 🇸🇦 🟠🟣
+**Work:** SCCC BY STC ( Prev: SCCC | ALIBABA CLOUD ) 🇸🇦 🟠🟣
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PYTHON01100100/PYTHON01100100/main/assets/parade.webp" width="300px" alt="Parade"/>
