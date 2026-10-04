@@ -13,6 +13,9 @@
 
 **Education:** 🇸🇦 King Saud University (In the future, I hope 🇺🇸 like MIT or Stanford)
 
+**✈️ Traveled To:** 🇸🇦 SA, 🇦🇪 UAE, 🇶🇦 QA, 🇧🇭 BH, 🇰🇼 KW, 🇪🇬 EG, 🇮🇹 IT, 🇲🇾 MY
+
+
 **Work:** SCCC BY STC ( Prev: SCCC | ALIBABA CLOUD ) 🇸🇦 🟠🟣
 
 <p align="center">
