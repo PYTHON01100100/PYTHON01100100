@@ -13,7 +13,7 @@
 
 **Education:** 🇸🇦 King Saud University (In the future, I hope 🇺🇸 like MIT or Stanford)
 
-**✈️ Traveled To:** 🇸🇦 SA, 🇦🇪 UAE, 🇶🇦 QA, 🇧🇭 BH, 🇰🇼 KW, 🇪🇬 EG, 🇮🇹 IT, 🇲🇾 MY
+**✈️ Traveled To:** 🇸🇦 SA, 🇦🇪 UAE, 🇶🇦 QA, 🇰🇼 KW, 🇪🇬 EG, 🇮🇹 IT, 🇲🇾 MY
 
 **🌟 Favorites:** 🎥 FMAB, Lady Oscar | 🎬 INT, LOTR | 🎮 ZELDA, SH, RE | 📚 1984, Moby Dick
 
